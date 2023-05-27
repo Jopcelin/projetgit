@@ -1,0 +1,13 @@
+*,::before,::after{
+      box-shadow: brown;
+      overflow-x: hidden;
+      margin: 0;
+      padding: 0;
+      background-color: dark;
+}
+p{
+      width: 500px;
+      word-wrap: break-word;
+      background-color: bisque;
+      color: darkblue;
+}
